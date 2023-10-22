@@ -1,1 +1,1 @@
-# Heartify- Heart health predictor and nutrition support
+# AWS Based Heart health predictor and nutrition support
